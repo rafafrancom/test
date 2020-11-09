@@ -1,0 +1,6 @@
+Write Unit Tests (this is MUST!, and it’s an absolute basic requirement!)
+Write Integration Tests — integrate with the Database, Framework, 3rd Party external systems etc. Most people treat these as optional and i can’t blame them but i suggest put them in place. They will eventually save a lot of pain and you’ll thank them later.
+If you have APIs, write API tests.
+If you have an UI, write UI tests, otherwise no need.|
+Automate as much of the testing you can via the different tests of the Pyramid.
+Don’t think automation can replace Manual Tests entirely. You’ll best to still keep doing these.
